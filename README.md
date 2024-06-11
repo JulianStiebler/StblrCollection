@@ -5,8 +5,6 @@
 * [Python](Python/README.md)
   * [PythonChess](Python/Python_Chess/README.md)
   > Fully working Chess with only the basic functionalities. No PNG support etc. but all Game Rules implemented (En Passant, Checkmate, Mate, etc)
-  * [PythonFlask_Dashboard](Python/PythonFlask_Dashboard/README.md)
-  > Fully featured Flask blueprint-factory dashboard with CSRF protection, authentication, user profiles, forms as modals, alert popups, responsive webdesign and blog-functionality with labels and filters
   * [PythonFlask_Template](Python/PythonFlask_Template/README.md)
   > Not blueprinted and uncofigured, but as package a fully working and responsive PythonFlask-Template powered by bootstrap.
  
